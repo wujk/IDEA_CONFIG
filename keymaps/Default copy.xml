@@ -1,0 +1,10 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
+  <action id="EditorNextWord" />
+  <action id="EditorPreviousWord" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+</keymap>
